@@ -17,7 +17,7 @@
     "concurrently": "^5.1.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.8.9"
   },
   "devDependencies": {
